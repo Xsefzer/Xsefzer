@@ -12,7 +12,7 @@
 
 ---
 
-## `whoami` — En quelques mots
+##— En quelques mots
 
 Je termine un **DEC en Techniques de l’informatique, réseautique et cybersécurité** et je suis ouvert aux **différents types de stages en informatique** afin de développer mon expérience sur le terrain. Ma formation et mes laboratoires m’ont permis d’explorer les réseaux, les systèmes, la virtualisation, les serveurs, les bases de données, l’hébergement Web et la cybersécurité, autant du côté de l’analyse que de la protection. Je suis également intéressé par les occasions en soutien informatique, réseaux, systèmes et infrastructures. J’aime apprendre, résoudre des problèmes et contribuer concrètement au sein d’une équipe.
 
@@ -24,7 +24,7 @@ Certification : CompTIA Security+ (SY0-701) — en préparation
 Objectif    : Développer mon expérience en milieu professionnel
 ```
 
-## `./current_focus.sh` — En ce moment
+##— En ce moment
 
 - 🎓 Je termine mon DEC et prépare la certification **CompTIA Security+ (SY0-701)**.
 
@@ -33,8 +33,6 @@ Objectif    : Développer mon expérience en milieu professionnel
 - 🔎 Je cherche un **stage en informatique** et reste ouvert aux occasions en soutien, réseaux, systèmes, infrastructure, serveurs, Web, bases de données ou cybersécurité.
 
 ## Projets en vedette
-
-> Remplacez les URL `LIEN_DU_DEPOT_...` par les liens réels de vos dépôts avant publication.
 
 | Projet | Ce que j’y explore |
 | --- | --- |
