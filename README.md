@@ -88,7 +88,7 @@ Disponibilité : [à compléter : session et dates du stage]
 
 ## 📬 Contact
 
-📧 [**yssflhl@gmail.com**](mailto:yssflhl.777@proton.me)
+📧 [**yssflhl.777@proton.me**](mailto:yssflhl.777@proton.me)
 💼 [**LinkedIn**](En préparation)
 
 ---
