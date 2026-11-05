@@ -1,46 +1,67 @@
 <div align="center">
 
-# 👋 Salut, moi c’est Youssef
+# 👋 Salut, moi c'est Youssef
 
 ### Informatique · Réseaux · Systèmes · Cybersécurité
 
-📍 **Montréal, Québec**  |  🎓 **Cégep de Saint-Hyacinthe**
+📍 **Montréal, Québec** &nbsp;|&nbsp; 🎓 **Cégep de Saint-Hyacinthe**
 
-[![Stage recherché](https://img.shields.io/badge/%C3%80%20la%20recherche-d'un%20stage%20en%20informatique-00C7B7?style=for-the-badge)](#contact)
+[![Stage recherché](https://img.shields.io/badge/%C3%80%20la%20recherche-d'un%20stage%20en%20informatique-00C7B7?style=for-the-badge)](#-contact)
+[![Security+](https://img.shields.io/badge/CompTIA%20Security%2B-SY0--701%20en%20pr%C3%A9paration-E31937?style=for-the-badge&logo=comptia&logoColor=white)](#-certification)
 
 </div>
 
 ---
 
-##— En quelques mots
+## 🧭 En quelques mots
 
-Je termine un **DEC en Techniques de l’informatique, réseautique et cybersécurité** et je suis ouvert aux **différents types de stages en informatique** afin de développer mon expérience sur le terrain. Ma formation et mes laboratoires m’ont permis d’explorer les réseaux, les systèmes, la virtualisation, les serveurs, les bases de données, l’hébergement Web et la cybersécurité, autant du côté de l’analyse que de la protection. Je suis également intéressé par les occasions en soutien informatique, réseaux, systèmes et infrastructures. J’aime apprendre, résoudre des problèmes et contribuer concrètement au sein d’une équipe.
+Je termine un **DEC en Techniques de l'informatique, réseautique et cybersécurité** et je cherche un **stage en informatique** pour développer mon expérience sur le terrain.
 
+Mes laboratoires m'ont permis de travailler les **réseaux, les systèmes, la virtualisation, les serveurs, les bases de données, l'hébergement Web et la cybersécurité**, côté analyse comme côté protection. J'aime apprendre, résoudre des problèmes méthodiquement et contribuer concrètement au sein d'une équipe.
+
+```text
+Recherche     : Stage en informatique (soutien, réseaux, systèmes, infra, Web, cybersécurité)
+Formation     : DEC en Techniques de l'informatique, réseautique et cybersécurité
+Certification : CompTIA Security+ (SY0-701), en préparation
+Lieu          : Montréal et environs
+Disponibilité : Session Hiver 2027 - Mars 2027
 ```
-Recherche   : Stage en informatique — ouvert à plusieurs domaines
-Intérêts    : Réseaux · Systèmes · Virtualisation · Web · Cybersécurité
-Formation   : DEC — Techniques de l’informatique, réseautique et cybersécurité
-Certification : CompTIA Security+ (SY0-701) — en préparation
-Objectif    : Développer mon expérience en milieu professionnel
-```
 
-##— En ce moment
+## 🚀 En ce moment
 
-- 🎓 Je termine mon DEC et prépare la certification **CompTIA Security+ (SY0-701)**.
+- 🎓 Je termine mon DEC et je prépare la **CompTIA Security+ (SY0-701)**
+- 🧪 Je monte des laboratoires pratiques et je les documente comme de vrais journaux d'incident
+- 🔎 Je cherche un stage et je reste ouvert à tous les profils : soutien, réseaux, systèmes, infrastructure, serveurs, Web, bases de données ou cybersécurité
 
-- 🧪 Je monte des laboratoires pratiques en sécurité et les documente comme de vrais journaux d’incident.
+---
 
-- 🔎 Je cherche un **stage en informatique** et reste ouvert aux occasions en soutien, réseaux, systèmes, infrastructure, serveurs, Web, bases de données ou cybersécurité.
+## 📂 Projets en vedette
 
-## Projets en vedette
+| Projet | Ce que j'y explore | Technologies |
+| --- | --- | --- |
+| 🔎 [**SOC Lab : Wazuh**](https://github.com/Xsefzer/wazuh-soc-lab) | Déploiement d'un SIEM Wazuh sur VMware, simulation d'une attaque par force brute (Hydra/Kali) contre un poste Windows, détection via l'Event ID **4625**, puis réponse automatisée pour bloquer l'IP source | `Wazuh` `VMware` `Kali` `Windows` |
+| 🚨 [**CrowdSec IDS/IPS Lab**](https://github.com/Xsefzer/crowdsec) | Détection d'une attaque par force brute RDP, corrélation entre journaux Windows et alertes, bouncer pare-feu Windows. Limite documentée : notification Telegram à dépanner | `CrowdSec` `Windows Firewall` `Event ID 4625` |
+| 🌐 [**Forêts AD + Forest Trust + PKI**](LIEN_DU_DEPOT_AD_PKI) | Deux forêts Active Directory reliées par un trust bidirectionnel avec authentification sélective, modèle AGDLP, permissions NTFS, puis Enterprise Root CA avec templates, auto-enrollment par GPO et authentification client sur IIS | `Active Directory` `AD CS` `GPO` `IIS` `DNS` |
+| 🔐 [**VPN SSTP + PKI : Journal de diagnostic**](LIEN_DU_DEPOT_VPN_PKI) | Mise en place d'une PKI et d'un VPN RRAS, diagnostic méthodique de problèmes de certificats (expiration, confiance de l'AC, nom) et script d'automatisation des sauvegardes | `RRAS` `SSTP` `PKI` `PowerShell` |
 
-| Projet | Ce que j’y explore |
+> 💡 Chaque dépôt contient des captures commentées, les problèmes rencontrés et les solutions appliquées.
+
+---
+
+## 🛠️ Compétences
+
+| Domaine | Ce que je sais faire |
 | --- | --- |
-| 🔎 [**SOC Lab — Wazuh**](https://github.com/Xsefzer/wazuh-soc-lab) | Déploiement d’un SIEM Wazuh sur VMware, simulation d’une attaque par force brute avec Hydra/Kali contre un poste Windows, détection via l’Event ID **4625**, puis réponse automatisée pour bloquer l’IP source. |
-| 🚨 [**CrowdSec IDS/IPS Lab**](https://github.com/Xsefzer/crowdsec)) | Détection et blocage d’attaques en temps réel avec CrowdSec, bouncer pare-feu et alertes Telegram. |
-| 🔐 [**VPN SSTP + PKI — Journal de diagnostic**](LIEN_DU_DEPOT_VPN_PKI) | Mise en place d’une PKI et d’un VPN RRAS; diagnostic méthodique de problèmes de certificats (expiration, confiance de l’AC, nom) et script d’automatisation des sauvegardes. |
+| 🛡️ **Sécurité défensive** | Déployer et lire un SIEM/IDS, analyser les journaux Windows, corréler événements et alertes |
+| 🏢 **Windows Server & AD** | Installer des forêts, configurer des trusts, groupes (AGDLP), GPO, permissions NTFS et partages |
+| 🔑 **PKI & certificats** | Déployer une Enterprise CA, créer des templates, configurer l'auto-enrollment, diagnostiquer des certificats |
+| 🌐 **Réseaux & VPN** | Configurer et dépanner des services réseau, DNS, tunnels VPN |
+| 💻 **Virtualisation** | Monter des laboratoires isolés (VMware, Hyper-V) |
+| ⚙️ **Scripting** | Automatiser des tâches en PowerShell et Bash |
 
-## Stack technique
+---
+
+## 🧰 Stack technique
 
 **Réseaux, VPN & sécurité**
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) ![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![VPN](https://img.shields.io/badge/VPN-Tunnels%20%26%20acc%C3%A8s-4B6BFB?style=for-the-badge)
@@ -52,18 +73,22 @@ Objectif    : Développer mon expérience en milieu professionnel
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white)
 
 **Outils de cybersécurité**
-![Wazuh](https://img.shields.io/badge/Wazuh-3AB7CB?style=for-the-badge&logo=wazuh&logoColor=white) ![CrowdSec](https://img.shields.io/badge/CrowdSec-F56E42?style=for-the-badge&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-3AB7CB?style=for-the-badge&logo=wazuh&logoColor=white) ![CrowdSec](https://img.shields.io/badge/CrowdSec-F56E42?style=for-the-badge&logoColor=white) ![Kali](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 **Scripting & automatisation**
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-## Certification
+---
 
-- 🔄 **CompTIA Security+ (SY0-701)** — en préparation
+## 🏅 Certification
 
-## <a id="contact"></a>Contact
+- 🔄 **CompTIA Security+ (SY0-701)** : en préparation
 
-📧 [**Me contacter par courriel**](mailto:yssflhl@gmail.com)
+---
+
+## 📬 Contact
+
+📧 [**yssflhl@gmail.com**](mailto:yssflhl@gmail.com)
 💼 [**LinkedIn**](LIEN_VERS_TON_LINKEDIN)
 
 ---
@@ -71,6 +96,7 @@ Objectif    : Développer mon expérience en milieu professionnel
 <div align="center">
 
 **Ouvert aux opportunités de stage en informatique à Montréal et environs**
-*Ouvert aux stages en soutien, réseaux, systèmes, virtualisation, serveurs, Web, bases de données et cybersécurité.*
+
+*Soutien · Réseaux · Systèmes · Virtualisation · Serveurs · Web · Bases de données · Cybersécurité*
 
 </div>
