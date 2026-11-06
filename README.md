@@ -1,5 +1,7 @@
 <div align="center">
 
+🇫🇷 **Français** · 🇬🇧 [English](README.en.md)
+
 # 👋 Salut, moi c'est Youssef
 
 ### Informatique · Réseaux · Systèmes · Cybersécurité
