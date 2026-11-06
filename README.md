@@ -1,6 +1,6 @@
 <div align="center">
 
-🇫🇷 **Français** · 🇬🇧 [English](README.en.md)
+[![Français](https://img.shields.io/badge/Français-actif-0055A4?style=flat-square)](README.md) [![English](https://img.shields.io/badge/English-version-C8102E?style=flat-square)](README.en.md)
 
 # 👋 Salut, moi c'est Youssef
 
