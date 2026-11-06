@@ -1,6 +1,6 @@
 <div align="center">
 
-🇫🇷 [Français](README.md) · 🇬🇧 **English**
+[![Français](https://img.shields.io/badge/Français-version-0055A4?style=flat-square)](README.md) [![English](https://img.shields.io/badge/English-active-C8102E?style=flat-square)](README.en.md)
 
 # 👋 Hi, I'm Youssef
 
