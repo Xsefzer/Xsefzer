@@ -1,104 +1,166 @@
 <div align="center">
 
-[![Français](https://img.shields.io/badge/Français-actif-0055A4?style=flat-square)](README.md) [![English](https://img.shields.io/badge/English-version-C8102E?style=flat-square)](README.en.md)
+# 🛡️ Youssef Lahlali
 
-# 👋 Salut, moi c'est Youssef
+### Finissant en réseautique et cybersécurité | Sécurité défensive (SOC) | Infrastructure TI
 
-### Informatique · Réseaux · Systèmes · Cybersécurité
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Finissant+en+r%C3%A9seautique+et+cybers%C3%A9curit%C3%A9;D%C3%A9tection+%7C+Analyse+de+journaux+%7C+SIEM;Wazuh+%C2%B7+Active+Directory+%C2%B7+PKI;CompTIA+Security%2B+en+pr%C3%A9paration;%C3%80+la+recherche+d%27un+stage+en+cybers%C3%A9curit%C3%A9)
 
-📍 **Montréal, Québec** &nbsp;|&nbsp; 🎓 **Cégep de Saint-Hyacinthe**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white)](LIEN-LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xsefzer)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yssflhl@gmail.com)
 
-[![Stage recherché](https://img.shields.io/badge/%C3%80%20la%20recherche-d'un%20stage%20en%20informatique-00C7B7?style=for-the-badge)](#-contact)
-[![Security+](https://img.shields.io/badge/CompTIA%20Security%2B-SY0--701%20en%20pr%C3%A9paration-E31937?style=for-the-badge&logo=comptia&logoColor=white)](#-certification)
+![Profile Views](https://komarev.com/ghpvc/?username=Xsefzer&label=Vues%20du%20profil&color=0e75b6&style=flat)
 
 </div>
 
 ---
 
-## 🧭 En quelques mots
+<div align="center">
 
-Je termine un **DEC en Techniques de l'informatique, réseautique et cybersécurité** et je cherche un **stage en informatique** pour développer mon expérience sur le terrain.
+![Snake animation](https://raw.githubusercontent.com/Xsefzer/Xsefzer/output/github-snake-dark.svg)
 
-Mes laboratoires m'ont permis de travailler les **réseaux, les systèmes, la virtualisation, les serveurs, les bases de données, l'hébergement Web et la cybersécurité**, côté analyse comme côté protection. J'aime apprendre, résoudre des problèmes méthodiquement et contribuer concrètement au sein d'une équipe.
+</div>
 
-```text
-Recherche     : Stage en informatique (soutien, réseaux, systèmes, infra, Web, cybersécurité)
-Formation     : DEC en Techniques de l'informatique, réseautique et cybersécurité
-Certification : CompTIA Security+ (SY0-701), en préparation
-Lieu          : Montréal et environs
-Disponibilité : [à compléter : session et dates du stage]
-```
+## 🎯 À propos de moi
 
-## 🚀 En ce moment
+Je m'appelle **Youssef Lahlali**, finissant au **DEC en Techniques de l'informatique, réseautique et cybersécurité** au Cégep de Saint-Hyacinthe, établi à Montréal.
 
-- 🎓 Je termine mon DEC et je prépare la **CompTIA Security+ (SY0-701)**
-- 🧪 Je monte des laboratoires pratiques et je les documente comme de vrais journaux d'incident
-- 🔎 Je cherche un stage et je reste ouvert à tous les profils : soutien, réseaux, systèmes, infrastructure, serveurs, Web, bases de données ou cybersécurité
+Ce qui m'intéresse, c'est la **sécurité défensive** : surveiller un environnement, repérer ce qui est anormal dans les journaux, comprendre l'attaque et y répondre.
+
+Ma façon de travailler :
+
+- Je **monte mes propres laboratoires** pour pratiquer ce que j'apprends
+- Je **documente tout** : commandes, captures, problèmes rencontrés et solutions
+- Je ne lâche pas un problème technique tant que je n'ai pas trouvé la cause
+
+🔎 **Je cherche un stage en cybersécurité ou en infrastructure TI pour l'hiver 2027.**
 
 ---
 
-## 📂 Projets en vedette
+## 🛠️ Stack
 
-| Projet | Ce que j'y explore | Technologies |
+<table>
+  <tr>
+    <td align="center"><b>Sécurité défensive</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=kali" height="40" alt="Kali Linux" />
+      <img src="https://img.shields.io/badge/Wazuh-3AB7CB?style=for-the-badge&logoColor=white" height="30" alt="Wazuh" />
+      <img src="https://img.shields.io/badge/CrowdSec-F56E42?style=for-the-badge&logoColor=white" height="30" alt="CrowdSec" />
+      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="30" alt="Wireshark" />
+      <img src="https://img.shields.io/badge/PKI-2E7D32?style=for-the-badge&logoColor=white" height="30" alt="PKI" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Réseau</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" height="30" alt="Cisco" />
+      <img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white" height="30" alt="pfSense" />
+      <img src="https://img.shields.io/badge/VPN-4B0082?style=for-the-badge&logoColor=white" height="30" alt="VPN" />
+      <img src="https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white" height="30" alt="Tailscale" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Systèmes</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" height="40" alt="Windows, Linux, Ubuntu" />
+      <img src="https://img.shields.io/badge/Active_Directory-0078D6?style=for-the-badge&logoColor=white" height="30" alt="Active Directory" />
+      <img src="https://img.shields.io/badge/GPO-0078D6?style=for-the-badge&logoColor=white" height="30" alt="GPO" />
+      <img src="https://img.shields.io/badge/Exchange-0078D4?style=for-the-badge&logoColor=white" height="30" alt="Exchange Server" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Virtualisation</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
+      <img src="https://img.shields.io/badge/VMware_ESXi-607078?style=for-the-badge&logoColor=white" height="30" alt="VMware ESXi" />
+      <img src="https://img.shields.io/badge/Hyper--V-0078D6?style=for-the-badge&logoColor=white" height="30" alt="Hyper-V" />
+      <img src="https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white" height="30" alt="Portainer" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Scripts et outils</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=powershell,bash,git,github" height="40" alt="PowerShell, Bash, Git, GitHub" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Projets en vedette
+
+### 🔎 [Wazuh-SIEM-Lab](https://github.com/Xsefzer/Wazuh-SIEM-Lab)
+
+Laboratoire SOC maison avec le SIEM Wazuh : détection et surveillance.
+
+- Serveur **Wazuh** sur Ubuntu Server dans VMware, avec un agent sur un poste Windows
+- Centralisation et analyse des journaux de sécurité dans le tableau de bord
+- Script de surveillance et documentation du lab
+
+**Technologies :** Wazuh, Ubuntu Server, Windows, VMware, PowerShell
+
+[![Voir le projet](https://img.shields.io/badge/Voir_le_projet-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xsefzer/Wazuh-SIEM-Lab)
+
+### 🚨 [Crowdsec-Lab](https://github.com/Xsefzer/Crowdsec-Lab)
+
+Laboratoire CrowdSec sur Windows : détecter une attaque et la bloquer automatiquement.
+
+- Bouncer pare-feu qui bloque les adresses IP malveillantes
+- Analyse des événements d'authentification Windows
+- Observation des alertes générées par CrowdSec
+
+**Technologies :** CrowdSec, Windows, pare-feu Windows
+
+[![Voir le projet](https://img.shields.io/badge/Voir_le_projet-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xsefzer/Crowdsec-Lab)
+
+### 🔐 [Ad-Multiforest-PKI-Lab](https://github.com/Xsefzer/Ad-Multiforest-PKI-Lab)
+
+Deux forêts Active Directory reliées par une relation d'approbation, avec une PKI d'entreprise.
+
+- Trust entre deux forêts avec **authentification sélective**
+- Gestion des accès selon le modèle **AGDLP**
+- PKI d'entreprise avec **inscription automatique des certificats par GPO**
+- Authentification par certificat sur IIS
+
+**Technologies :** Windows Server, Active Directory, AD CS, GPO, IIS
+
+[![Voir le projet](https://img.shields.io/badge/Voir_le_projet-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xsefzer/Ad-Multiforest-PKI-Lab)
+
+---
+
+## 📚 Autres projets de formation
+
+- **VPN SSTP avec certificats :** serveur RRAS, diagnostic d'une panne de connexion en vérifiant trois causes (expiration, confiance envers l'autorité de certification, nom du certificat), et script de sauvegarde automatique de la configuration.
+- **Filtre de mots de passe Active Directory :** blocage des mots de passe faibles ou déjà compromis dans un domaine.
+- **Serveur ESXi complet :** déploiement d'ESXi sur un serveur physique, pare-feu pfSense, Ubuntu avec Docker et Portainer, redirection de ports.
+- **Réseau d'entreprise Cisco :** VLAN, routage et listes de contrôle d'accès (ACL) sur un réseau multi-sites.
+- **Auto-hébergement :** serveur Ubuntu avec services Docker, accessible à distance par Tailscale sans ouvrir de port sur Internet.
+
+---
+
+## 🎓 Formation et certifications
+
+**DEC – Techniques de l'informatique, réseautique et cybersécurité (420.B0)**
+*Cégep de Saint-Hyacinthe* · fin prévue en 2027
+
+| **Certification** | **Organisme** | **Statut** |
 | --- | --- | --- |
-| 🔎 [**SOC Lab : Wazuh**](https://github.com/Xsefzer/wazuh-soc-lab) | Déploiement d'un SIEM Wazuh sur VMware, simulation d'activités malveillantes sur un poste Windows (échecs de connexion, création d'un compte administrateur, persistance), détection confirmée et mappée **MITRE ATT&CK**, plus un script de supervision PowerShell intégré à Wazuh | `Wazuh` `VMware` `Windows` `PowerShell` `MITRE ATT&CK` |
-| 🚨 [**CrowdSec IDS/IPS Lab**](https://github.com/Xsefzer/crowdsec) | Détection d'une attaque par force brute RDP, corrélation entre journaux Windows et alertes, bouncer pare-feu Windows. Limite documentée : notification Telegram à dépanner | `CrowdSec` `Windows Firewall` `Event ID 4625` |
-| 🌐 [**Forêts AD + Forest Trust + PKI**](https://github.com/Xsefzer/ad-multiforest-pki-lab) | Deux forêts Active Directory reliées par un trust bidirectionnel avec authentification sélective, modèle AGDLP, permissions NTFS, puis Enterprise Root CA avec templates, auto-enrollment par GPO et authentification client sur IIS | `Active Directory` `AD CS` `GPO` `IIS` `DNS` |
-| 🔐 [**VPN SSTP + PKI : Journal de diagnostic**](LIEN_DU_DEPOT_VPN_PKI) | Mise en place d'une PKI et d'un VPN RRAS, diagnostic méthodique de problèmes de certificats (expiration, confiance de l'AC, nom) et script d'automatisation des sauvegardes | `RRAS` `SSTP` `PKI` `PowerShell` |
-
-> 💡 Chaque dépôt contient des captures commentées, les problèmes rencontrés et les solutions appliquées.
+| **CompTIA Security+ (SY0-701)** | CompTIA | 🔄 En préparation |
+| **Cisco – Réseautique (CCNA 1 à 3)** | Cisco Networking Academy | ✅ Cours complétés au DEC |
 
 ---
 
-## 🛠️ Compétences
+## 🤝 On se parle ?
 
-| Domaine | Ce que je sais faire |
-| --- | --- |
-| 🛡️ **Sécurité défensive** | Déployer et lire un SIEM/IDS, analyser les journaux Windows, corréler événements et alertes |
-| 🏢 **Windows Server & AD** | Installer des forêts, configurer des trusts, groupes (AGDLP), GPO, permissions NTFS et partages |
-| 🔑 **PKI & certificats** | Déployer une Enterprise CA, créer des templates, configurer l'auto-enrollment, diagnostiquer des certificats |
-| 🌐 **Réseaux & VPN** | Configurer et dépanner des services réseau, DNS, tunnels VPN |
-| 💻 **Virtualisation** | Monter des laboratoires isolés (VMware, Hyper-V) |
-| ⚙️ **Scripting** | Automatiser des tâches en PowerShell et Bash |
+Vous cherchez un stagiaire en cybersécurité ou en infrastructure TI ? Écrivez-moi, je réponds rapidement.
 
----
-
-## 🧰 Stack technique
-
-**Réseaux, VPN & sécurité**
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) ![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![VPN](https://img.shields.io/badge/VPN-Tunnels%20%26%20acc%C3%A8s-4B6BFB?style=for-the-badge)
-
-**Systèmes, serveurs & virtualisation**
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Exchange](https://img.shields.io/badge/Microsoft%20Exchange-0078D4?style=for-the-badge&logo=microsoft-exchange&logoColor=white) ![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D6?style=for-the-badge&logo=microsoft&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![VMware ESXi](https://img.shields.io/badge/VMware%20ESXi-607078?style=for-the-badge&logo=vmware&logoColor=white) ![vCenter](https://img.shields.io/badge/vCenter-607078?style=for-the-badge&logo=vmware&logoColor=white) ![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=for-the-badge&logo=truenas&logoColor=white) ![DietPi](https://img.shields.io/badge/DietPi-A5CC00?style=for-the-badge&logo=linux&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-**Web, bases de données & supervision**
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white)
-
-**Outils de cybersécurité**
-![Wazuh](https://img.shields.io/badge/Wazuh-3AB7CB?style=for-the-badge&logo=wazuh&logoColor=white) ![CrowdSec](https://img.shields.io/badge/CrowdSec-F56E42?style=for-the-badge&logoColor=white) ![Kali](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-
-**Scripting & automatisation**
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
----
-
-## 🏅 Certification
-
-- 🔄 **CompTIA Security+ (SY0-701)** : en préparation
-
----
-
-## 📬 Contact
-
-📧 [**yssflhl.777@proton.me**](mailto:yssflhl.777@proton.me)
-💼 [**LinkedIn**](En préparation)
+📧 **yssflhl@gmail.com** · 📍 Montréal, Québec
 
 ---
 
 <div align="center">
 
-**Ouvert aux opportunités de stage en informatique à Montréal et environs**
-
-*Soutien · Réseaux · Systèmes · Virtualisation · Serveurs · Web · Bases de données · Cybersécurité*
+### 💬 *« Je ne lâche pas un problème tant que je n'ai pas trouvé la cause. »*
 
 </div>
