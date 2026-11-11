@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Youssef Lahlali — Réseautique et cybersécurité, sécurité défensive (SOC), Montréal">
+  <defs>
+    <clipPath id="card"><rect x="1" y="1" width="1198" height="318" rx="18"/></clipPath>
+    <radialGradient id="glowTeal" cx="300" cy="50" r="430" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0891b2" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#0891b2" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowViolet" cx="990" cy="170" r="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6d28d9" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#6d28d9" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="nameGrad" x1="62" y1="0" x2="520" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#60a5fa"/>
+      <stop offset="0.5" stop-color="#e0f2fe"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="400" y1="0" x2="800" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="sweep" x1="990" y1="160" x2="1110" y2="160" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <!-- Fond -->
+  <g clip-path="url(#card)">
+    <rect width="1200" height="320" fill="#0b0f17"/>
+    <rect width="1200" height="320" fill="url(#glowTeal)"/>
+    <rect width="1200" height="320" fill="url(#glowViolet)"/>
+    <rect width="1200" height="320" fill="url(#grid)"/>
+    <rect x="400" y="316" width="400" height="3" fill="url(#accent)"/>
+  </g>
+  <rect x="1" y="1" width="1198" height="318" rx="18" fill="none" stroke="#243042" stroke-width="1.5"/>
+
+  <!-- Pastille de disponibilité -->
+  <rect x="64" y="50" width="336" height="30" rx="15" fill="#22d3ee" fill-opacity="0.08" stroke="#0e7490"/>
+  <circle cx="84" cy="65" r="4.5" fill="#22c55e">
+    <animate attributeName="opacity" values="1;0.35;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="98" y="69.5" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#a5f3fc">disponible pour un stage · hiver 2027</text>
+
+  <!-- Nom et titre -->
+  <text x="62" y="146" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="52" font-weight="800" fill="url(#nameGrad)">Youssef Lahlali</text>
+  <text x="64" y="186" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#cbd5e1">Réseautique et cybersécurité · Sécurité défensive (SOC)</text>
+
+  <!-- Étiquettes -->
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" text-anchor="middle">
+    <rect x="64" y="212" width="112" height="30" rx="7" fill="#111827" stroke="#263244"/>
+    <text x="120" y="231.5" fill="#67e8f9">SOC &amp; SIEM</text>
+    <rect x="186" y="212" width="72" height="30" rx="7" fill="#111827" stroke="#263244"/>
+    <text x="222" y="231.5" fill="#fb923c">Wazuh</text>
+    <rect x="268" y="212" width="160" height="30" rx="7" fill="#111827" stroke="#263244"/>
+    <text x="348" y="231.5" fill="#60a5fa">Active Directory</text>
+    <rect x="438" y="212" width="56" height="30" rx="7" fill="#111827" stroke="#263244"/>
+    <text x="466" y="231.5" fill="#fbbf24">PKI</text>
+    <rect x="504" y="212" width="80" height="30" rx="7" fill="#111827" stroke="#263244"/>
+    <text x="544" y="231.5" fill="#86efac">Réseau</text>
+  </g>
+
+  <text x="64" y="280" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#64748b">Montréal · Québec · Canada</text>
+
+  <!-- Radar de surveillance -->
+  <g>
+    <g fill="none" stroke="#22d3ee">
+      <circle cx="990" cy="160" r="40" stroke-opacity="0.35"/>
+      <circle cx="990" cy="160" r="80" stroke-opacity="0.25" stroke-dasharray="4 5"/>
+      <circle cx="990" cy="160" r="120" stroke-opacity="0.2"/>
+      <path d="M870 160H1110M990 40V280" stroke-opacity="0.12"/>
+    </g>
+
+    <!-- Balayage -->
+    <path d="M990 160 L1110 160 A120 120 0 0 0 1074.85 75.15 Z" fill="url(#sweep)">
+      <animateTransform attributeName="transform" type="rotate" from="0 990 160" to="360 990 160" dur="6s" repeatCount="indefinite"/>
+    </path>
+
+    <!-- Liens vers les postes surveillés -->
+    <g stroke="#38bdf8" stroke-opacity="0.45" stroke-dasharray="3 4" fill="none">
+      <path d="M990 160L934 104M990 160L1058 118M990 160L1052 226M990 160L914 196M990 160L1010 82M990 160L1092 222"/>
+    </g>
+
+    <!-- Postes -->
+    <g fill="#22d3ee">
+      <circle cx="934" cy="104" r="5"/>
+      <circle cx="1058" cy="118" r="5"/>
+      <circle cx="914" cy="196" r="5"/>
+      <circle cx="1010" cy="82" r="5"/>
+    </g>
+    <g fill="#a78bfa">
+      <circle cx="1052" cy="226" r="5"/>
+    </g>
+
+    <!-- Alerte détectée -->
+    <circle cx="1092" cy="222" r="6" fill="none" stroke="#fb923c" stroke-width="1.5">
+      <animate attributeName="r" values="6;18" dur="1.8s" repeatCount="indefinite"/>
+      <animate attributeName="stroke-opacity" values="0.9;0" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1092" cy="222" r="5.5" fill="#fb923c"/>
+
+    <!-- Bouclier central -->
+    <path d="M990 136l19 7v15c0 13-8.5 21.5-19 26-10.500-4.500-19-13-19-26v-15z" fill="#0b0f17" stroke="#22d3ee" stroke-width="1.8" stroke-linejoin="round"/>
+    <path d="M981 160l6.500 6.500 12-13" fill="none" stroke="#22d3ee" stroke-width="2.200" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
