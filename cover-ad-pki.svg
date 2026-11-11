@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" width="640" height="400" role="img" aria-label="Schéma du lab Active Directory : deux forêts reliées par un trust, PKI d'entreprise, GPO et IIS">
+  <defs>
+    <clipPath id="c"><rect x="1" y="1" width="638" height="398" rx="14"/></clipPath>
+    <radialGradient id="g1" cx="120" cy="40" r="360" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#1d4ed8" stop-opacity="0.45"/><stop offset="1" stop-color="#1d4ed8" stop-opacity="0"/></radialGradient>
+    <radialGradient id="g2" cx="560" cy="330" r="300" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#6d28d9" stop-opacity="0.35"/><stop offset="1" stop-color="#6d28d9" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#fff" stroke-opacity="0.035"/></pattern>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#7dd3fc"/></marker>
+    <marker id="arR" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#f87171"/></marker>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="640" height="400" fill="#0b0f17"/><rect width="640" height="400" fill="url(#g1)"/><rect width="640" height="400" fill="url(#g2)"/><rect width="640" height="400" fill="url(#grid)"/>
+    <rect width="640" height="44" fill="#0f1623" fill-opacity="0.85"/><path d="M0 44H640" stroke="#243042"/>
+  </g>
+  <circle cx="24" cy="22" r="5.5" fill="#f87171"/><circle cx="44" cy="22" r="5.5" fill="#fbbf24"/><circle cx="64" cy="22" r="5.5" fill="#34d399"/>
+  <text x="320" y="27" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#94a3b8">ad-multiforest-pki-lab</text>
+  <path d="M120 66L54 172H186Z" fill="#111827" fill-opacity="0.92" stroke="#22d3ee" stroke-width="1.6" stroke-linejoin="round"/>
+  <text x="120" y="146" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#f1f5f9">Forêt A</text>
+  <text x="120" y="163" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.500" fill="#22d3ee">Active Directory</text>
+  <path d="M520 66L454 172H586Z" fill="#111827" fill-opacity="0.92" stroke="#a78bfa" stroke-width="1.6" stroke-linejoin="round"/>
+  <text x="520" y="146" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#f1f5f9">Forêt B</text>
+  <text x="520" y="163" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.500" fill="#a78bfa">Active Directory</text>
+  <path d="M200 130H440" fill="none" stroke="#7dd3fc" stroke-width="1.6" marker-start="url(#ar)" marker-end="url(#ar)"/>
+  <text x="320" y="118" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="11.5" fill="#e2e8f0">relation d'approbation (trust)</text>
+  <text x="320" y="150" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#94a3b8">authentification sélective</text>
+  <rect x="30" y="212" width="180" height="66" rx="10" fill="#111827" fill-opacity="0.92" stroke="#fbbf24" stroke-width="1.5"/>
+  <text x="120.0" y="242.0" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#f1f5f9">PKI d'entreprise</text>
+  <text x="120.0" y="262.0" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="11.5" fill="#fbbf24">AD CS</text>
+  <rect x="230" y="212" width="180" height="66" rx="10" fill="#111827" fill-opacity="0.92" stroke="#22d3ee" stroke-width="1.5"/>
+  <text x="320.0" y="242.0" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#f1f5f9">GPO</text>
+  <text x="320.0" y="262.0" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="11.5" fill="#22d3ee">inscription automatique</text>
+  <rect x="430" y="212" width="180" height="66" rx="10" fill="#111827" fill-opacity="0.92" stroke="#86efac" stroke-width="1.5"/>
+  <text x="520.0" y="242.0" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#f1f5f9">IIS</text>
+  <text x="520.0" y="262.0" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="11.5" fill="#86efac">auth. par certificat</text>
+  <path d="M211 245H228" fill="none" stroke="#7dd3fc" stroke-width="1.6" marker-end="url(#ar)"/>
+  <path d="M411 245H428" fill="none" stroke="#7dd3fc" stroke-width="1.6" marker-end="url(#ar)"/>
+  <text x="30" y="330" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="800" fill="#e0f2fe">Ad-Multiforest-PKI-Lab</text>
+  <text x="30" y="353" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#94a3b8">Deux forêts, un trust et une PKI</text>
+  <rect x="484" y="322" width="126" height="30" rx="7" fill="#111827" stroke="#263244"/>
+  <text x="547" y="341.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#fbbf24">modèle AGDLP</text>
+
+  <rect x="1" y="1" width="638" height="398" rx="14" fill="none" stroke="#243042" stroke-width="1.5"/>
+</svg>
