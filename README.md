@@ -97,7 +97,7 @@ Ma façon de travailler :
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <a href="https://github.com/Xsefzer/Wazuh-SIEM-Lab"><img src="./cover-wazuh.svg" width="100%" alt="Schéma du lab Wazuh" /></a>
       <h3><a href="https://github.com/Xsefzer/Wazuh-SIEM-Lab">Wazuh-SIEM-Lab</a></h3>
       <p>Laboratoire SOC maison : un serveur <b>Wazuh</b> reçoit les journaux d'un poste Windows et affiche les alertes. <b>Détection et surveillance</b>, avec script et documentation.</p>
@@ -105,7 +105,7 @@ Ma façon de travailler :
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" />
       <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square" alt="PowerShell" />
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <a href="https://github.com/Xsefzer/Crowdsec-Lab"><img src="./cover-crowdsec.svg" width="100%" alt="Schéma du lab CrowdSec" /></a>
       <h3><a href="https://github.com/Xsefzer/Crowdsec-Lab">Crowdsec-Lab</a></h3>
       <p>CrowdSec sur Windows : analyse des <b>événements d'authentification</b>, observation des alertes, et <b>bouncer pare-feu</b> qui bloque l'adresse IP de l'attaquant.</p>
@@ -113,13 +113,23 @@ Ma façon de travailler :
       <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square" alt="Windows" />
       <img src="https://img.shields.io/badge/Pare--feu-B91C1C?style=flat-square" alt="Pare-feu" />
     </td>
-    <td width="33%" valign="top">
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <a href="https://github.com/Xsefzer/Ad-Multiforest-PKI-Lab"><img src="./cover-ad-pki.svg" width="100%" alt="Schéma du lab Active Directory et PKI" /></a>
       <h3><a href="https://github.com/Xsefzer/Ad-Multiforest-PKI-Lab">Ad-Multiforest-PKI-Lab</a></h3>
       <p>Deux forêts AD reliées par un <b>trust à authentification sélective</b>, modèle <b>AGDLP</b>, PKI d'entreprise avec certificats distribués par GPO et authentification par certificat sur IIS.</p>
       <img src="https://img.shields.io/badge/Active_Directory-0078D6?style=flat-square" alt="Active Directory" />
       <img src="https://img.shields.io/badge/AD_CS-CA8A04?style=flat-square" alt="AD CS" />
       <img src="https://img.shields.io/badge/IIS-15803D?style=flat-square" alt="IIS" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Xsefzer/Wifi-WPA2-Audit-Lab"><img src="./cover-wifi.svg" width="100%" alt="Schéma de l'audit WiFi WPA2" /></a>
+      <h3><a href="https://github.com/Xsefzer/Wifi-WPA2-Audit-Lab">Wifi-WPA2-Audit-Lab</a></h3>
+      <p>Audit d'un réseau <b>WPA2-PSK</b> en laboratoire supervisé : capture du <b>4-way handshake</b> avec une carte en mode moniteur, puis test hors ligne par dictionnaire. Volet matériel avec un <b>ESP32</b>.</p>
+      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+      <img src="https://img.shields.io/badge/aircrack--ng-1A7F37?style=flat-square" alt="aircrack-ng" />
+      <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square" alt="ESP32" />
     </td>
   </tr>
 </table>
