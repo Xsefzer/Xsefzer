@@ -49,6 +49,7 @@ Ma façon de travailler :
       <img src="https://skillicons.dev/icons?i=kali" height="40" alt="Kali Linux" />
       <img src="https://img.shields.io/badge/Wazuh-3AB7CB?style=for-the-badge&logoColor=white" height="30" alt="Wazuh" />
       <img src="https://img.shields.io/badge/CrowdSec-F56E42?style=for-the-badge&logoColor=white" height="30" alt="CrowdSec" />
+      <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logoColor=white" height="30" alt="Nmap" />
       <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="30" alt="Wireshark" />
       <img src="https://img.shields.io/badge/PKI-2E7D32?style=for-the-badge&logoColor=white" height="30" alt="PKI" />
     </td>
@@ -66,6 +67,8 @@ Ma façon de travailler :
     <td align="center"><b>Systèmes</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" height="40" alt="Windows, Linux, Ubuntu" />
+      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="30" alt="Ubuntu" />
+      <img src="https://img.shields.io/badge/DietPi-C5203E?style=for-the-badge&logoColor=white" height="30" alt="DietPi" />
       <img src="https://img.shields.io/badge/Active_Directory-0078D6?style=for-the-badge&logoColor=white" height="30" alt="Active Directory" />
       <img src="https://img.shields.io/badge/GPO-0078D6?style=for-the-badge&logoColor=white" height="30" alt="GPO" />
       <img src="https://img.shields.io/badge/Exchange-0078D4?style=for-the-badge&logoColor=white" height="30" alt="Exchange Server" />
