@@ -1,8 +1,6 @@
 <div align="center">
 
-# 🛡️ Youssef Lahlali
-
-### Finissant en réseautique et cybersécurité | Sécurité défensive (SOC) | Infrastructure TI
+<img src="./banner.svg" width="100%" alt="Youssef Lahlali — Réseautique et cybersécurité, sécurité défensive (SOC), Montréal" />
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Finissant+en+r%C3%A9seautique+et+cybers%C3%A9curit%C3%A9;D%C3%A9tection+%7C+Analyse+de+journaux+%7C+SIEM;Wazuh+%C2%B7+Active+Directory+%C2%B7+PKI;CompTIA+Security%2B+en+pr%C3%A9paration;%C3%80+la+recherche+d%27un+stage+en+cybers%C3%A9curit%C3%A9)
 
@@ -34,7 +32,7 @@ Ma façon de travailler :
 - Je **documente tout** : commandes, captures, problèmes rencontrés et solutions
 - Je ne lâche pas un problème technique tant que je n'ai pas trouvé la cause
 
-🔎 **Je cherche un stage en cybersécurité ou en infrastructure TI pour l'hiver 2027.**
+🔎 **Je cherche un stage pour l'hiver 2027.** Je suis ouvert à tous les domaines des TI, avec une préférence pour la **cybersécurité (SOC)**.
 
 ---
 
@@ -153,7 +151,7 @@ Deux forêts Active Directory reliées par une relation d'approbation, avec une 
 
 ## 🤝 On se parle ?
 
-Vous cherchez un stagiaire en cybersécurité ou en infrastructure TI ? Écrivez-moi, je réponds rapidement.
+Vous cherchez un stagiaire en TI ? Je suis ouvert à tous les domaines, et la cybersécurité (SOC) est celui qui m'attire le plus. Écrivez-moi, je réponds rapidement.
 
 📧 **yssflhl@gmail.com** · 📍 Montréal, Québec
 
