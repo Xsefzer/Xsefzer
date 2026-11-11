@@ -22,7 +22,11 @@
 
 ## 🎯 À propos de moi
 
-Je m'appelle **Youssef Lahlali**, finissant au **DEC en Techniques de l'informatique, réseautique et cybersécurité** au Cégep de Saint-Hyacinthe, établi à Montréal.
+<div align="center">
+
+<img src="./terminal.svg" width="100%" alt="Terminal : Youssef Lahlali, finissant en réseautique et cybersécurité, stage hiver 2027, préférence cybersécurité (SOC)" />
+
+</div>
 
 Ce qui m'intéresse, c'est la **sécurité défensive** : surveiller un environnement, repérer ce qui est anormal dans les journaux, comprendre l'attaque et y répondre.
 
@@ -88,42 +92,34 @@ Ma façon de travailler :
 
 ## 🚀 Projets en vedette
 
-### 🔎 [Wazuh-SIEM-Lab](https://github.com/Xsefzer/Wazuh-SIEM-Lab)
-
-Laboratoire SOC maison avec le SIEM Wazuh : détection et surveillance.
-
-- Serveur **Wazuh** sur Ubuntu Server dans VMware, avec un agent sur un poste Windows
-- Centralisation et analyse des journaux de sécurité dans le tableau de bord
-- Script de surveillance et documentation du lab
-
-**Technologies :** Wazuh, Ubuntu Server, Windows, VMware, PowerShell
-
-[![Voir le projet](https://img.shields.io/badge/Voir_le_projet-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xsefzer/Wazuh-SIEM-Lab)
-
-### 🚨 [Crowdsec-Lab](https://github.com/Xsefzer/Crowdsec-Lab)
-
-Laboratoire CrowdSec sur Windows : détecter une attaque et la bloquer automatiquement.
-
-- Bouncer pare-feu qui bloque les adresses IP malveillantes
-- Analyse des événements d'authentification Windows
-- Observation des alertes générées par CrowdSec
-
-**Technologies :** CrowdSec, Windows, pare-feu Windows
-
-[![Voir le projet](https://img.shields.io/badge/Voir_le_projet-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xsefzer/Crowdsec-Lab)
-
-### 🔐 [Ad-Multiforest-PKI-Lab](https://github.com/Xsefzer/Ad-Multiforest-PKI-Lab)
-
-Deux forêts Active Directory reliées par une relation d'approbation, avec une PKI d'entreprise.
-
-- Trust entre deux forêts avec **authentification sélective**
-- Gestion des accès selon le modèle **AGDLP**
-- PKI d'entreprise avec **inscription automatique des certificats par GPO**
-- Authentification par certificat sur IIS
-
-**Technologies :** Windows Server, Active Directory, AD CS, GPO, IIS
-
-[![Voir le projet](https://img.shields.io/badge/Voir_le_projet-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xsefzer/Ad-Multiforest-PKI-Lab)
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/Xsefzer/Wazuh-SIEM-Lab"><img src="./cover-wazuh.svg" width="100%" alt="Schéma du lab Wazuh" /></a>
+      <h3><a href="https://github.com/Xsefzer/Wazuh-SIEM-Lab">Wazuh-SIEM-Lab</a></h3>
+      <p>Laboratoire SOC maison : un serveur <b>Wazuh</b> reçoit les journaux d'un poste Windows et affiche les alertes. <b>Détection et surveillance</b>, avec script et documentation.</p>
+      <img src="https://img.shields.io/badge/Wazuh-3AB7CB?style=flat-square" alt="Wazuh" />
+      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+      <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square" alt="PowerShell" />
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/Xsefzer/Crowdsec-Lab"><img src="./cover-crowdsec.svg" width="100%" alt="Schéma du lab CrowdSec" /></a>
+      <h3><a href="https://github.com/Xsefzer/Crowdsec-Lab">Crowdsec-Lab</a></h3>
+      <p>CrowdSec sur Windows : analyse des <b>événements d'authentification</b>, observation des alertes, et <b>bouncer pare-feu</b> qui bloque l'adresse IP de l'attaquant.</p>
+      <img src="https://img.shields.io/badge/CrowdSec-F56E42?style=flat-square" alt="CrowdSec" />
+      <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square" alt="Windows" />
+      <img src="https://img.shields.io/badge/Pare--feu-B91C1C?style=flat-square" alt="Pare-feu" />
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/Xsefzer/Ad-Multiforest-PKI-Lab"><img src="./cover-ad-pki.svg" width="100%" alt="Schéma du lab Active Directory et PKI" /></a>
+      <h3><a href="https://github.com/Xsefzer/Ad-Multiforest-PKI-Lab">Ad-Multiforest-PKI-Lab</a></h3>
+      <p>Deux forêts AD reliées par un <b>trust à authentification sélective</b>, modèle <b>AGDLP</b>, PKI d'entreprise avec certificats distribués par GPO et authentification par certificat sur IIS.</p>
+      <img src="https://img.shields.io/badge/Active_Directory-0078D6?style=flat-square" alt="Active Directory" />
+      <img src="https://img.shields.io/badge/AD_CS-CA8A04?style=flat-square" alt="AD CS" />
+      <img src="https://img.shields.io/badge/IIS-15803D?style=flat-square" alt="IIS" />
+    </td>
+  </tr>
+</table>
 
 ---
 
