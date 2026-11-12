@@ -1,5 +1,7 @@
 <div align="center">
 
+**Français** · [English](./README.en.md)
+
 <img src="./assets/banner.svg" width="100%" alt="Youssef Lahlali — Réseautique et cybersécurité, sécurité défensive (SOC), Montréal" />
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Finissant+en+r%C3%A9seautique+et+cybers%C3%A9curit%C3%A9;D%C3%A9tection+%7C+Analyse+de+journaux+%7C+SIEM;Wazuh+%C2%B7+Active+Directory+%C2%B7+PKI;CompTIA+Security%2B+en+pr%C3%A9paration;%C3%80+la+recherche+d%27un+stage+en+cybers%C3%A9curit%C3%A9)
@@ -160,11 +162,7 @@ Vous cherchez un stagiaire en TI ? Je suis ouvert à tous les domaines, et la cy
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xsefzer/Xsefzer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xsefzer/Xsefzer/output/github-snake.svg" />
-  <img alt="Serpent des contributions" src="https://raw.githubusercontent.com/Xsefzer/Xsefzer/output/github-snake-dark.svg" width="100%" />
-</picture>
+<img src="./assets/defender-snake.svg" width="100%" alt="Serpent défenseur qui neutralise des menaces en continu" />
 
 </div>
 
