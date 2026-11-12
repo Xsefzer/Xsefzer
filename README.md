@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" width="100%" alt="Youssef Lahlali — Réseautique et cybersécurité, sécurité défensive (SOC), Montréal" />
+<img src="./assets/banner.svg" width="100%" alt="Youssef Lahlali — Réseautique et cybersécurité, sécurité défensive (SOC), Montréal" />
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Finissant+en+r%C3%A9seautique+et+cybers%C3%A9curit%C3%A9;D%C3%A9tection+%7C+Analyse+de+journaux+%7C+SIEM;Wazuh+%C2%B7+Active+Directory+%C2%B7+PKI;CompTIA+Security%2B+en+pr%C3%A9paration;%C3%80+la+recherche+d%27un+stage+en+cybers%C3%A9curit%C3%A9)
 
@@ -12,19 +12,11 @@
 
 </div>
 
----
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Xsefzer/Xsefzer/output/github-snake-dark.svg)
-
-</div>
-
 ## 🎯 À propos de moi
 
 <div align="center">
 
-<img src="./terminal.svg" width="100%" alt="Terminal : Youssef Lahlali, finissant en réseautique et cybersécurité, stage hiver 2027, préférence cybersécurité (SOC)" />
+<img src="./assets/terminal.svg" width="100%" alt="Terminal : Youssef Lahlali, finissant en réseautique et cybersécurité, stage hiver 2027, préférence cybersécurité (SOC)" />
 
 </div>
 
@@ -98,7 +90,7 @@ Ma façon de travailler :
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Xsefzer/Wazuh-SIEM-Lab"><img src="./cover-wazuh.svg" width="100%" alt="Schéma du lab Wazuh" /></a>
+      <a href="https://github.com/Xsefzer/Wazuh-SIEM-Lab"><img src="./assets/cover-wazuh.svg" width="100%" alt="Schéma du lab Wazuh" /></a>
       <h3><a href="https://github.com/Xsefzer/Wazuh-SIEM-Lab">Wazuh-SIEM-Lab</a></h3>
       <p>Laboratoire SOC maison : un serveur <b>Wazuh</b> reçoit les journaux d'un poste Windows et affiche les alertes. <b>Détection et surveillance</b>, avec script et documentation.</p>
       <img src="https://img.shields.io/badge/Wazuh-3AB7CB?style=flat-square" alt="Wazuh" />
@@ -106,7 +98,7 @@ Ma façon de travailler :
       <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square" alt="PowerShell" />
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Xsefzer/Crowdsec-Lab"><img src="./cover-crowdsec.svg" width="100%" alt="Schéma du lab CrowdSec" /></a>
+      <a href="https://github.com/Xsefzer/Crowdsec-Lab"><img src="./assets/cover-crowdsec.svg" width="100%" alt="Schéma du lab CrowdSec" /></a>
       <h3><a href="https://github.com/Xsefzer/Crowdsec-Lab">Crowdsec-Lab</a></h3>
       <p>CrowdSec sur Windows : analyse des <b>événements d'authentification</b>, observation des alertes, et <b>bouncer pare-feu</b> qui bloque l'adresse IP de l'attaquant.</p>
       <img src="https://img.shields.io/badge/CrowdSec-F56E42?style=flat-square" alt="CrowdSec" />
@@ -116,7 +108,7 @@ Ma façon de travailler :
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Xsefzer/Ad-Multiforest-PKI-Lab"><img src="./cover-ad-pki.svg" width="100%" alt="Schéma du lab Active Directory et PKI" /></a>
+      <a href="https://github.com/Xsefzer/Ad-Multiforest-PKI-Lab"><img src="./assets/cover-ad-pki.svg" width="100%" alt="Schéma du lab Active Directory et PKI" /></a>
       <h3><a href="https://github.com/Xsefzer/Ad-Multiforest-PKI-Lab">Ad-Multiforest-PKI-Lab</a></h3>
       <p>Deux forêts AD reliées par un <b>trust à authentification sélective</b>, modèle <b>AGDLP</b>, PKI d'entreprise avec certificats distribués par GPO et authentification par certificat sur IIS.</p>
       <img src="https://img.shields.io/badge/Active_Directory-0078D6?style=flat-square" alt="Active Directory" />
@@ -124,7 +116,7 @@ Ma façon de travailler :
       <img src="https://img.shields.io/badge/IIS-15803D?style=flat-square" alt="IIS" />
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Xsefzer/Wifi-WPA2-Audit-Lab"><img src="./cover-wifi.svg" width="100%" alt="Schéma de l'audit WiFi WPA2" /></a>
+      <a href="https://github.com/Xsefzer/Wifi-WPA2-Audit-Lab"><img src="./assets/cover-wifi.svg" width="100%" alt="Schéma de l'audit WiFi WPA2" /></a>
       <h3><a href="https://github.com/Xsefzer/Wifi-WPA2-Audit-Lab">Wifi-WPA2-Audit-Lab</a></h3>
       <p>Audit d'un réseau <b>WPA2-PSK</b> en laboratoire supervisé : capture du <b>4-way handshake</b> avec une carte en mode moniteur, puis test hors ligne par dictionnaire. Volet matériel avec un <b>ESP32</b>.</p>
       <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux" />
@@ -168,6 +160,16 @@ Vous cherchez un stagiaire en TI ? Je suis ouvert à tous les domaines, et la cy
 
 <div align="center">
 
-### 💬 *« Je ne lâche pas un problème tant que je n'ai pas trouvé la cause. »*
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xsefzer/Xsefzer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xsefzer/Xsefzer/output/github-snake.svg" />
+  <img alt="Serpent des contributions" src="https://raw.githubusercontent.com/Xsefzer/Xsefzer/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+</div>
+
+<div align="center">
+
+### *« Je ne lâche pas un problème tant que je n'ai pas trouvé la cause. »*
 
 </div>
