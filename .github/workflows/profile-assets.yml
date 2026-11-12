@@ -1,0 +1,43 @@
+name: Profile assets (snake)
+
+on:
+  # Rafraîchit deux fois par jour pour garder le serpent à jour
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-assets
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      # Serpent des contributions (clair + sombre), lu par le README via <picture>
+      - name: Generate snake animations
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg?color_snake=#0891B2
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#00D9FF
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Deploy to output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          force_orphan: true
+          commit_message: "Update profile assets [skip ci]"
